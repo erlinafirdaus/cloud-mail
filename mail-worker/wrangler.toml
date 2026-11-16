@@ -56,3 +56,4 @@ database_id = "9d691c01-cf22-4ab9-9f59-cc737c6d6766"
 [[kv_namespaces]]
 binding = "kv"
 id = "d3ef83827be649f0adb1adf2b64f9432"
+# redeploy
